@@ -39,6 +39,10 @@
   color: var(--gray-400);
 }
 
+.authorAndTime time {
+  opacity: 0.6;
+}
+
 .commentContent header button {
   background: transparent;
   border: 0;
