@@ -17,3 +17,17 @@
   <li>phosphor-react</li>
 </ul>
 
+#CONFIGURAÇÃO DO PROJETO
+```
+# Abra o terminal e clone o repositório com o comando
+git clone https://github.com/rodrigopfialho/post
+
+No terminal digite os seguintes comando.
+
+npm i
+
+npm run dev
+```
+<span>O projeto estará disponivel no  http://localhost:3000</span>
+
+
