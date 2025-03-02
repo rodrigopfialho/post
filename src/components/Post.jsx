@@ -6,7 +6,7 @@ import styles from './Post.module.css'
 import { useState } from 'react'
 
 export function Post({author, publishedAt, content}) {
-  const [comments, setComments] = useState(['Post rocheda']);
+  const [comments, setComments] = useState(['Ok']);
 
   const [newCommentText, setNewCommentText] = useState('');
 
